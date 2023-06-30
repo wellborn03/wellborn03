@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm wellborn Bar</h1>
-<h3 align="center">A passionate Python developer | AI | ML and Data Science Expert</h3>
+<h3 align="center">A passionate Python developer | AI | ML and Data Science Enthusiast </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
