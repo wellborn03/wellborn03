@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm wellborn Bar</h1>
+<h1 align="center">Hi 👋, I'm Wellborn Bar</h1>
 <h3 align="center">A passionate Python developer | AI | ML and Data Science Enthusiast</h3>
 
 
